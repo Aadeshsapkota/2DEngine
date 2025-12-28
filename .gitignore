@@ -1,0 +1,17 @@
+# Build folders
+build/
+bin/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS / CLion / IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
