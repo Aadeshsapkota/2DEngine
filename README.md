@@ -24,3 +24,8 @@ A 2D game engine built using C++ and raylib.
 ### Day 5
 - Basic collision logic
 - Refactoring core modules
+
+### Day 6-12
+-Learn StateMachines 
+-Implemented Them 
+
